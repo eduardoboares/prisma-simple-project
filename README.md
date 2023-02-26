@@ -1,1 +1,1 @@
-# My first prisma project
+# My prisma simple project
